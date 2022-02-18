@@ -1,0 +1,19 @@
+{
+  "name": "Deploy",
+  "version": "1.0.0",
+  "description": "A simple frontend design for Corrosion you can deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nebelung",
+  "dependencies": {
+    "acorn-hammerhead": "^0.5.0",
+    "bootstrap": "^3.4.1",
+    "corrosion": "^1.0.0",
+    "css-tree": "^1.1.3",
+    "express": "^4.17.1",
+    "parse5": "^6.0.1",
+    "webpack": "^5.58.1"
+  }
+}
